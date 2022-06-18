@@ -1,0 +1,537 @@
+"team_name" "Number of Pulls " "year" "playoff" "one_goal"
+"1" "Anaheim Ducks" 9 2016 FALSE TRUE
+"2" "Arizona Coyotes" 12 2016 FALSE TRUE
+"3" "Boston Bruins" 15 2016 FALSE TRUE
+"4" "Buffalo Sabres" 12 2016 FALSE TRUE
+"5" "Calgary Flames" 6 2016 FALSE TRUE
+"6" "Carolina Hurricanes" 14 2016 FALSE TRUE
+"7" "Chicago Blackhawks" 13 2016 FALSE TRUE
+"8" "Colorado Avalanche" 17 2016 FALSE TRUE
+"9" "Columbus Blue Jackets" 13 2016 FALSE TRUE
+"10" "Dallas Stars" 12 2016 FALSE TRUE
+"11" "Detroit Red Wings" 13 2016 FALSE TRUE
+"12" "Edmonton Oilers" 7 2016 FALSE TRUE
+"13" "Florida Panthers" 13 2016 FALSE TRUE
+"14" "Los Angeles Kings" 11 2016 FALSE TRUE
+"15" "Minnesota Wild" 16 2016 FALSE TRUE
+"16" "Montreal Canadiens" 11 2016 FALSE TRUE
+"17" "Nashville Predators" 11 2016 FALSE TRUE
+"18" "New Jersey Devils" 9 2016 FALSE TRUE
+"19" "New York Islanders" 6 2016 FALSE TRUE
+"20" "New York Rangers" 11 2016 FALSE TRUE
+"21" "Ottawa Senators" 10 2016 FALSE TRUE
+"22" "Philadelphia Flyers" 10 2016 FALSE TRUE
+"23" "Pittsburgh Penguins" 7 2016 FALSE TRUE
+"24" "San Jose Sharks" 15 2016 FALSE TRUE
+"25" "St. Louis Blues" 7 2016 FALSE TRUE
+"26" "Tampa Bay Lightning" 9 2016 FALSE TRUE
+"27" "Toronto Maple Leafs" 9 2016 FALSE TRUE
+"28" "Vancouver Canucks" 14 2016 FALSE TRUE
+"29" "Washington Capitals" 8 2016 FALSE TRUE
+"30" "Winnipeg Jets" 11 2016 FALSE TRUE
+"31" "Anaheim Ducks" 3 2016 FALSE FALSE
+"32" "Arizona Coyotes" 12 2016 FALSE FALSE
+"33" "Boston Bruins" 9 2016 FALSE FALSE
+"34" "Buffalo Sabres" 9 2016 FALSE FALSE
+"35" "Calgary Flames" 10 2016 FALSE FALSE
+"36" "Carolina Hurricanes" 7 2016 FALSE FALSE
+"37" "Chicago Blackhawks" 6 2016 FALSE FALSE
+"38" "Colorado Avalanche" 15 2016 FALSE FALSE
+"39" "Columbus Blue Jackets" 7 2016 FALSE FALSE
+"40" "Dallas Stars" 13 2016 FALSE FALSE
+"41" "Detroit Red Wings" 12 2016 FALSE FALSE
+"42" "Edmonton Oilers" 9 2016 FALSE FALSE
+"43" "Florida Panthers" 10 2016 FALSE FALSE
+"44" "Los Angeles Kings" 10 2016 FALSE FALSE
+"45" "Minnesota Wild" 8 2016 FALSE FALSE
+"46" "Montreal Canadiens" 6 2016 FALSE FALSE
+"47" "Nashville Predators" 11 2016 FALSE FALSE
+"48" "New Jersey Devils" 10 2016 FALSE FALSE
+"49" "New York Islanders" 6 2016 FALSE FALSE
+"50" "New York Rangers" 8 2016 FALSE FALSE
+"51" "Ottawa Senators" 4 2016 FALSE FALSE
+"52" "Philadelphia Flyers" 11 2016 FALSE FALSE
+"53" "Pittsburgh Penguins" 4 2016 FALSE FALSE
+"54" "San Jose Sharks" 7 2016 FALSE FALSE
+"55" "St. Louis Blues" 10 2016 FALSE FALSE
+"56" "Tampa Bay Lightning" 10 2016 FALSE FALSE
+"57" "Toronto Maple Leafs" 5 2016 FALSE FALSE
+"58" "Vancouver Canucks" 15 2016 FALSE FALSE
+"59" "Washington Capitals" 5 2016 FALSE FALSE
+"60" "Winnipeg Jets" 11 2016 FALSE FALSE
+"61" "Anaheim Ducks" 2 2016 TRUE TRUE
+"62" "Boston Bruins" 1 2016 TRUE TRUE
+"63" "Calgary Flames" 3 2016 TRUE TRUE
+"64" "Chicago Blackhawks" 1 2016 TRUE TRUE
+"65" "Edmonton Oilers" 2 2016 TRUE TRUE
+"66" "Minnesota Wild" 3 2016 TRUE TRUE
+"67" "Montreal Canadiens" 4 2016 TRUE TRUE
+"68" "Nashville Predators" 4 2016 TRUE TRUE
+"69" "New York Rangers" 2 2016 TRUE TRUE
+"70" "Ottawa Senators" 5 2016 TRUE TRUE
+"71" "Pittsburgh Penguins" 2 2016 TRUE TRUE
+"72" "San Jose Sharks" 2 2016 TRUE TRUE
+"73" "St. Louis Blues" 3 2016 TRUE TRUE
+"74" "Toronto Maple Leafs" 1 2016 TRUE TRUE
+"75" "Washington Capitals" 1 2016 TRUE TRUE
+"76" "Anaheim Ducks" 4 2016 TRUE FALSE
+"77" "Chicago Blackhawks" 1 2016 TRUE FALSE
+"78" "Columbus Blue Jackets" 2 2016 TRUE FALSE
+"79" "Minnesota Wild" 1 2016 TRUE FALSE
+"80" "Montreal Canadiens" 1 2016 TRUE FALSE
+"81" "Nashville Predators" 2 2016 TRUE FALSE
+"82" "New York Rangers" 1 2016 TRUE FALSE
+"83" "Pittsburgh Penguins" 3 2016 TRUE FALSE
+"84" "San Jose Sharks" 1 2016 TRUE FALSE
+"85" "St. Louis Blues" 3 2016 TRUE FALSE
+"86" "Toronto Maple Leafs" 1 2016 TRUE FALSE
+"87" "Washington Capitals" 1 2016 TRUE FALSE
+"88" "Anaheim Ducks" 11 2017 FALSE TRUE
+"89" "Arizona Coyotes" 17 2017 FALSE TRUE
+"90" "Boston Bruins" 10 2017 FALSE TRUE
+"91" "Buffalo Sabres" 21 2017 FALSE TRUE
+"92" "Calgary Flames" 5 2017 FALSE TRUE
+"93" "Carolina Hurricanes" 16 2017 FALSE TRUE
+"94" "Chicago Blackhawks" 9 2017 FALSE TRUE
+"95" "Colorado Avalanche" 9 2017 FALSE TRUE
+"96" "Columbus Blue Jackets" 11 2017 FALSE TRUE
+"97" "Dallas Stars" 9 2017 FALSE TRUE
+"98" "Detroit Red Wings" 16 2017 FALSE TRUE
+"99" "Edmonton Oilers" 17 2017 FALSE TRUE
+"100" "Florida Panthers" 11 2017 FALSE TRUE
+"101" "Los Angeles Kings" 17 2017 FALSE TRUE
+"102" "Minnesota Wild" 11 2017 FALSE TRUE
+"103" "Montreal Canadiens" 5 2017 FALSE TRUE
+"104" "Nashville Predators" 11 2017 FALSE TRUE
+"105" "New Jersey Devils" 12 2017 FALSE TRUE
+"106" "New York Islanders" 19 2017 FALSE TRUE
+"107" "New York Rangers" 13 2017 FALSE TRUE
+"108" "Ottawa Senators" 17 2017 FALSE TRUE
+"109" "Philadelphia Flyers" 12 2017 FALSE TRUE
+"110" "Pittsburgh Penguins" 15 2017 FALSE TRUE
+"111" "San Jose Sharks" 11 2017 FALSE TRUE
+"112" "St. Louis Blues" 8 2017 FALSE TRUE
+"113" "Tampa Bay Lightning" 7 2017 FALSE TRUE
+"114" "Toronto Maple Leafs" 12 2017 FALSE TRUE
+"115" "Vancouver Canucks" 13 2017 FALSE TRUE
+"116" "Vegas Golden Knights" 12 2017 FALSE TRUE
+"117" "Washington Capitals" 11 2017 FALSE TRUE
+"118" "Winnipeg Jets" 6 2017 FALSE TRUE
+"119" "Anaheim Ducks" 10 2017 FALSE FALSE
+"120" "Arizona Coyotes" 12 2017 FALSE FALSE
+"121" "Boston Bruins" 8 2017 FALSE FALSE
+"122" "Buffalo Sabres" 10 2017 FALSE FALSE
+"123" "Calgary Flames" 11 2017 FALSE FALSE
+"124" "Carolina Hurricanes" 8 2017 FALSE FALSE
+"125" "Chicago Blackhawks" 16 2017 FALSE FALSE
+"126" "Colorado Avalanche" 10 2017 FALSE FALSE
+"127" "Columbus Blue Jackets" 10 2017 FALSE FALSE
+"128" "Dallas Stars" 10 2017 FALSE FALSE
+"129" "Detroit Red Wings" 7 2017 FALSE FALSE
+"130" "Edmonton Oilers" 6 2017 FALSE FALSE
+"131" "Florida Panthers" 6 2017 FALSE FALSE
+"132" "Los Angeles Kings" 5 2017 FALSE FALSE
+"133" "Minnesota Wild" 7 2017 FALSE FALSE
+"134" "Montreal Canadiens" 13 2017 FALSE FALSE
+"135" "Nashville Predators" 4 2017 FALSE FALSE
+"136" "New Jersey Devils" 7 2017 FALSE FALSE
+"137" "New York Islanders" 9 2017 FALSE FALSE
+"138" "New York Rangers" 12 2017 FALSE FALSE
+"139" "Ottawa Senators" 13 2017 FALSE FALSE
+"140" "Philadelphia Flyers" 8 2017 FALSE FALSE
+"141" "Pittsburgh Penguins" 9 2017 FALSE FALSE
+"142" "San Jose Sharks" 10 2017 FALSE FALSE
+"143" "St. Louis Blues" 10 2017 FALSE FALSE
+"144" "Tampa Bay Lightning" 4 2017 FALSE FALSE
+"145" "Toronto Maple Leafs" 13 2017 FALSE FALSE
+"146" "Vancouver Canucks" 7 2017 FALSE FALSE
+"147" "Vegas Golden Knights" 8 2017 FALSE FALSE
+"148" "Washington Capitals" 7 2017 FALSE FALSE
+"149" "Winnipeg Jets" 5 2017 FALSE FALSE
+"150" "Anaheim Ducks" 2 2017 TRUE TRUE
+"151" "Boston Bruins" 2 2017 TRUE TRUE
+"152" "Colorado Avalanche" 2 2017 TRUE TRUE
+"153" "Los Angeles Kings" 3 2017 TRUE TRUE
+"154" "Minnesota Wild" 2 2017 TRUE TRUE
+"155" "Nashville Predators" 2 2017 TRUE TRUE
+"156" "New Jersey Devils" 1 2017 TRUE TRUE
+"157" "Pittsburgh Penguins" 2 2017 TRUE TRUE
+"158" "San Jose Sharks" 1 2017 TRUE TRUE
+"159" "Vegas Golden Knights" 2 2017 TRUE TRUE
+"160" "Washington Capitals" 3 2017 TRUE TRUE
+"161" "Winnipeg Jets" 4 2017 TRUE TRUE
+"162" "Boston Bruins" 4 2017 TRUE FALSE
+"163" "Colorado Avalanche" 1 2017 TRUE FALSE
+"164" "Columbus Blue Jackets" 2 2017 TRUE FALSE
+"165" "Los Angeles Kings" 1 2017 TRUE FALSE
+"166" "Nashville Predators" 2 2017 TRUE FALSE
+"167" "New Jersey Devils" 4 2017 TRUE FALSE
+"168" "Philadelphia Flyers" 1 2017 TRUE FALSE
+"169" "Pittsburgh Penguins" 2 2017 TRUE FALSE
+"170" "San Jose Sharks" 1 2017 TRUE FALSE
+"171" "Tampa Bay Lightning" 2 2017 TRUE FALSE
+"172" "Toronto Maple Leafs" 2 2017 TRUE FALSE
+"173" "Vegas Golden Knights" 2 2017 TRUE FALSE
+"174" "Washington Capitals" 3 2017 TRUE FALSE
+"175" "Winnipeg Jets" 2 2017 TRUE FALSE
+"176" "Anaheim Ducks" 12 2018 FALSE TRUE
+"177" "Arizona Coyotes" 12 2018 FALSE TRUE
+"178" "Boston Bruins" 10 2018 FALSE TRUE
+"179" "Buffalo Sabres" 13 2018 FALSE TRUE
+"180" "Calgary Flames" 10 2018 FALSE TRUE
+"181" "Carolina Hurricanes" 14 2018 FALSE TRUE
+"182" "Chicago Blackhawks" 14 2018 FALSE TRUE
+"183" "Colorado Avalanche" 12 2018 FALSE TRUE
+"184" "Columbus Blue Jackets" 10 2018 FALSE TRUE
+"185" "Dallas Stars" 15 2018 FALSE TRUE
+"186" "Detroit Red Wings" 21 2018 FALSE TRUE
+"187" "Edmonton Oilers" 10 2018 FALSE TRUE
+"188" "Florida Panthers" 16 2018 FALSE TRUE
+"189" "Los Angeles Kings" 8 2018 FALSE TRUE
+"190" "Minnesota Wild" 11 2018 FALSE TRUE
+"191" "Montreal Canadiens" 7 2018 FALSE TRUE
+"192" "Nashville Predators" 14 2018 FALSE TRUE
+"193" "New Jersey Devils" 16 2018 FALSE TRUE
+"194" "New York Islanders" 9 2018 FALSE TRUE
+"195" "New York Rangers" 16 2018 FALSE TRUE
+"196" "Ottawa Senators" 8 2018 FALSE TRUE
+"197" "Philadelphia Flyers" 11 2018 FALSE TRUE
+"198" "Pittsburgh Penguins" 7 2018 FALSE TRUE
+"199" "San Jose Sharks" 9 2018 FALSE TRUE
+"200" "St. Louis Blues" 13 2018 FALSE TRUE
+"201" "Tampa Bay Lightning" 4 2018 FALSE TRUE
+"202" "Toronto Maple Leafs" 12 2018 FALSE TRUE
+"203" "Vancouver Canucks" 14 2018 FALSE TRUE
+"204" "Vegas Golden Knights" 13 2018 FALSE TRUE
+"205" "Washington Capitals" 11 2018 FALSE TRUE
+"206" "Winnipeg Jets" 8 2018 FALSE TRUE
+"207" "Anaheim Ducks" 4 2018 FALSE FALSE
+"208" "Arizona Coyotes" 11 2018 FALSE FALSE
+"209" "Boston Bruins" 12 2018 FALSE FALSE
+"210" "Buffalo Sabres" 12 2018 FALSE FALSE
+"211" "Calgary Flames" 9 2018 FALSE FALSE
+"212" "Carolina Hurricanes" 8 2018 FALSE FALSE
+"213" "Chicago Blackhawks" 11 2018 FALSE FALSE
+"214" "Colorado Avalanche" 11 2018 FALSE FALSE
+"215" "Columbus Blue Jackets" 10 2018 FALSE FALSE
+"216" "Dallas Stars" 11 2018 FALSE FALSE
+"217" "Detroit Red Wings" 14 2018 FALSE FALSE
+"218" "Edmonton Oilers" 10 2018 FALSE FALSE
+"219" "Florida Panthers" 13 2018 FALSE FALSE
+"220" "Los Angeles Kings" 11 2018 FALSE FALSE
+"221" "Minnesota Wild" 10 2018 FALSE FALSE
+"222" "Montreal Canadiens" 9 2018 FALSE FALSE
+"223" "Nashville Predators" 5 2018 FALSE FALSE
+"224" "New Jersey Devils" 8 2018 FALSE FALSE
+"225" "New York Islanders" 3 2018 FALSE FALSE
+"226" "New York Rangers" 10 2018 FALSE FALSE
+"227" "Ottawa Senators" 10 2018 FALSE FALSE
+"228" "Philadelphia Flyers" 17 2018 FALSE FALSE
+"229" "Pittsburgh Penguins" 8 2018 FALSE FALSE
+"230" "San Jose Sharks" 7 2018 FALSE FALSE
+"231" "St. Louis Blues" 7 2018 FALSE FALSE
+"232" "Tampa Bay Lightning" 5 2018 FALSE FALSE
+"233" "Toronto Maple Leafs" 7 2018 FALSE FALSE
+"234" "Vancouver Canucks" 4 2018 FALSE FALSE
+"235" "Vegas Golden Knights" 10 2018 FALSE FALSE
+"236" "Washington Capitals" 8 2018 FALSE FALSE
+"237" "Winnipeg Jets" 8 2018 FALSE FALSE
+"238" "Boston Bruins" 5 2018 TRUE TRUE
+"239" "Carolina Hurricanes" 2 2018 TRUE TRUE
+"240" "Colorado Avalanche" 3 2018 TRUE TRUE
+"241" "Columbus Blue Jackets" 1 2018 TRUE TRUE
+"242" "Dallas Stars" 3 2018 TRUE TRUE
+"243" "Nashville Predators" 1 2018 TRUE TRUE
+"244" "New York Islanders" 2 2018 TRUE TRUE
+"245" "Pittsburgh Penguins" 1 2018 TRUE TRUE
+"246" "San Jose Sharks" 3 2018 TRUE TRUE
+"247" "St. Louis Blues" 2 2018 TRUE TRUE
+"248" "Tampa Bay Lightning" 3 2018 TRUE TRUE
+"249" "Toronto Maple Leafs" 1 2018 TRUE TRUE
+"250" "Vegas Golden Knights" 1 2018 TRUE TRUE
+"251" "Washington Capitals" 1 2018 TRUE TRUE
+"252" "Winnipeg Jets" 2 2018 TRUE TRUE
+"253" "Boston Bruins" 2 2018 TRUE FALSE
+"254" "Colorado Avalanche" 2 2018 TRUE FALSE
+"255" "Dallas Stars" 1 2018 TRUE FALSE
+"256" "Nashville Predators" 1 2018 TRUE FALSE
+"257" "Pittsburgh Penguins" 2 2018 TRUE FALSE
+"258" "San Jose Sharks" 4 2018 TRUE FALSE
+"259" "St. Louis Blues" 3 2018 TRUE FALSE
+"260" "Tampa Bay Lightning" 1 2018 TRUE FALSE
+"261" "Toronto Maple Leafs" 1 2018 TRUE FALSE
+"262" "Vegas Golden Knights" 2 2018 TRUE FALSE
+"263" "Winnipeg Jets" 1 2018 TRUE FALSE
+"264" "Anaheim Ducks" 14 2019 FALSE TRUE
+"265" "Arizona Coyotes" 17 2019 FALSE TRUE
+"266" "Boston Bruins" 9 2019 FALSE TRUE
+"267" "Buffalo Sabres" 13 2019 FALSE TRUE
+"268" "Calgary Flames" 11 2019 FALSE TRUE
+"269" "Carolina Hurricanes" 10 2019 FALSE TRUE
+"270" "Chicago Blackhawks" 16 2019 FALSE TRUE
+"271" "Colorado Avalanche" 10 2019 FALSE TRUE
+"272" "Columbus Blue Jackets" 10 2019 FALSE TRUE
+"273" "Dallas Stars" 11 2019 FALSE TRUE
+"274" "Detroit Red Wings" 13 2019 FALSE TRUE
+"275" "Edmonton Oilers" 9 2019 FALSE TRUE
+"276" "Florida Panthers" 14 2019 FALSE TRUE
+"277" "Los Angeles Kings" 21 2019 FALSE TRUE
+"278" "Minnesota Wild" 9 2019 FALSE TRUE
+"279" "Montreal Canadiens" 18 2019 FALSE TRUE
+"280" "Nashville Predators" 7 2019 FALSE TRUE
+"281" "New Jersey Devils" 5 2019 FALSE TRUE
+"282" "New York Islanders" 13 2019 FALSE TRUE
+"283" "New York Rangers" 9 2019 FALSE TRUE
+"284" "Ottawa Senators" 10 2019 FALSE TRUE
+"285" "Philadelphia Flyers" 4 2019 FALSE TRUE
+"286" "Pittsburgh Penguins" 6 2019 FALSE TRUE
+"287" "San Jose Sharks" 12 2019 FALSE TRUE
+"288" "St. Louis Blues" 10 2019 FALSE TRUE
+"289" "Tampa Bay Lightning" 14 2019 FALSE TRUE
+"290" "Toronto Maple Leafs" 14 2019 FALSE TRUE
+"291" "Vancouver Canucks" 11 2019 FALSE TRUE
+"292" "Vegas Golden Knights" 10 2019 FALSE TRUE
+"293" "Washington Capitals" 13 2019 FALSE TRUE
+"294" "Winnipeg Jets" 8 2019 FALSE TRUE
+"295" "Anaheim Ducks" 12 2019 FALSE FALSE
+"296" "Arizona Coyotes" 3 2019 FALSE FALSE
+"297" "Boston Bruins" 6 2019 FALSE FALSE
+"298" "Buffalo Sabres" 14 2019 FALSE FALSE
+"299" "Calgary Flames" 10 2019 FALSE FALSE
+"300" "Carolina Hurricanes" 8 2019 FALSE FALSE
+"301" "Chicago Blackhawks" 7 2019 FALSE FALSE
+"302" "Colorado Avalanche" 5 2019 FALSE FALSE
+"303" "Columbus Blue Jackets" 7 2019 FALSE FALSE
+"304" "Dallas Stars" 8 2019 FALSE FALSE
+"305" "Detroit Red Wings" 14 2019 FALSE FALSE
+"306" "Edmonton Oilers" 5 2019 FALSE FALSE
+"307" "Florida Panthers" 8 2019 FALSE FALSE
+"308" "Los Angeles Kings" 5 2019 FALSE FALSE
+"309" "Minnesota Wild" 7 2019 FALSE FALSE
+"310" "Montreal Canadiens" 14 2019 FALSE FALSE
+"311" "Nashville Predators" 7 2019 FALSE FALSE
+"312" "New Jersey Devils" 3 2019 FALSE FALSE
+"313" "New York Islanders" 7 2019 FALSE FALSE
+"314" "New York Rangers" 10 2019 FALSE FALSE
+"315" "Ottawa Senators" 9 2019 FALSE FALSE
+"316" "Philadelphia Flyers" 8 2019 FALSE FALSE
+"317" "Pittsburgh Penguins" 3 2019 FALSE FALSE
+"318" "San Jose Sharks" 8 2019 FALSE FALSE
+"319" "St. Louis Blues" 7 2019 FALSE FALSE
+"320" "Tampa Bay Lightning" 5 2019 FALSE FALSE
+"321" "Toronto Maple Leafs" 7 2019 FALSE FALSE
+"322" "Vancouver Canucks" 6 2019 FALSE FALSE
+"323" "Vegas Golden Knights" 8 2019 FALSE FALSE
+"324" "Washington Capitals" 5 2019 FALSE FALSE
+"325" "Winnipeg Jets" 5 2019 FALSE FALSE
+"326" "Arizona Coyotes" 1 2019 TRUE TRUE
+"327" "Boston Bruins" 2 2019 TRUE TRUE
+"328" "Calgary Flames" 2 2019 TRUE TRUE
+"329" "Carolina Hurricanes" 3 2019 TRUE TRUE
+"330" "Chicago Blackhawks" 2 2019 TRUE TRUE
+"331" "Colorado Avalanche" 3 2019 TRUE TRUE
+"332" "Columbus Blue Jackets" 1 2019 TRUE TRUE
+"333" "Dallas Stars" 5 2019 TRUE TRUE
+"334" "Edmonton Oilers" 2 2019 TRUE TRUE
+"335" "Minnesota Wild" 1 2019 TRUE TRUE
+"336" "Montreal Canadiens" 4 2019 TRUE TRUE
+"337" "Nashville Predators" 2 2019 TRUE TRUE
+"338" "New York Islanders" 3 2019 TRUE TRUE
+"339" "New York Rangers" 1 2019 TRUE TRUE
+"340" "Philadelphia Flyers" 2 2019 TRUE TRUE
+"341" "Pittsburgh Penguins" 2 2019 TRUE TRUE
+"342" "St. Louis Blues" 2 2019 TRUE TRUE
+"343" "Tampa Bay Lightning" 3 2019 TRUE TRUE
+"344" "Toronto Maple Leafs" 1 2019 TRUE TRUE
+"345" "Vegas Golden Knights" 4 2019 TRUE TRUE
+"346" "Boston Bruins" 1 2019 TRUE FALSE
+"347" "Carolina Hurricanes" 1 2019 TRUE FALSE
+"348" "Colorado Avalanche" 4 2019 TRUE FALSE
+"349" "Dallas Stars" 3 2019 TRUE FALSE
+"350" "Edmonton Oilers" 1 2019 TRUE FALSE
+"351" "Florida Panthers" 1 2019 TRUE FALSE
+"352" "Minnesota Wild" 1 2019 TRUE FALSE
+"353" "Montreal Canadiens" 2 2019 TRUE FALSE
+"354" "New York Islanders" 1 2019 TRUE FALSE
+"355" "New York Rangers" 1 2019 TRUE FALSE
+"356" "Philadelphia Flyers" 2 2019 TRUE FALSE
+"357" "St. Louis Blues" 2 2019 TRUE FALSE
+"358" "Tampa Bay Lightning" 4 2019 TRUE FALSE
+"359" "Toronto Maple Leafs" 2 2019 TRUE FALSE
+"360" "Vancouver Canucks" 4 2019 TRUE FALSE
+"361" "Vegas Golden Knights" 1 2019 TRUE FALSE
+"362" "Washington Capitals" 4 2019 TRUE FALSE
+"363" "Winnipeg Jets" 1 2019 TRUE FALSE
+"364" "Anaheim Ducks" 10 2020 FALSE TRUE
+"365" "Arizona Coyotes" 11 2020 FALSE TRUE
+"366" "Boston Bruins" 9 2020 FALSE TRUE
+"367" "Buffalo Sabres" 12 2020 FALSE TRUE
+"368" "Calgary Flames" 13 2020 FALSE TRUE
+"369" "Carolina Hurricanes" 6 2020 FALSE TRUE
+"370" "Chicago Blackhawks" 8 2020 FALSE TRUE
+"371" "Colorado Avalanche" 5 2020 FALSE TRUE
+"372" "Columbus Blue Jackets" 11 2020 FALSE TRUE
+"373" "Dallas Stars" 13 2020 FALSE TRUE
+"374" "Detroit Red Wings" 7 2020 FALSE TRUE
+"375" "Edmonton Oilers" 7 2020 FALSE TRUE
+"376" "Florida Panthers" 6 2020 FALSE TRUE
+"377" "Los Angeles Kings" 11 2020 FALSE TRUE
+"378" "Minnesota Wild" 9 2020 FALSE TRUE
+"379" "Montreal Canadiens" 10 2020 FALSE TRUE
+"380" "Nashville Predators" 8 2020 FALSE TRUE
+"381" "New Jersey Devils" 12 2020 FALSE TRUE
+"382" "New York Islanders" 6 2020 FALSE TRUE
+"383" "New York Rangers" 8 2020 FALSE TRUE
+"384" "Ottawa Senators" 11 2020 FALSE TRUE
+"385" "Philadelphia Flyers" 10 2020 FALSE TRUE
+"386" "Pittsburgh Penguins" 6 2020 FALSE TRUE
+"387" "San Jose Sharks" 9 2020 FALSE TRUE
+"388" "St. Louis Blues" 10 2020 FALSE TRUE
+"389" "Tampa Bay Lightning" 3 2020 FALSE TRUE
+"390" "Toronto Maple Leafs" 6 2020 FALSE TRUE
+"391" "Vancouver Canucks" 6 2020 FALSE TRUE
+"392" "Vegas Golden Knights" 9 2020 FALSE TRUE
+"393" "Washington Capitals" 5 2020 FALSE TRUE
+"394" "Winnipeg Jets" 11 2020 FALSE TRUE
+"395" "Anaheim Ducks" 6 2020 FALSE FALSE
+"396" "Arizona Coyotes" 6 2020 FALSE FALSE
+"397" "Boston Bruins" 2 2020 FALSE FALSE
+"398" "Buffalo Sabres" 8 2020 FALSE FALSE
+"399" "Calgary Flames" 8 2020 FALSE FALSE
+"400" "Carolina Hurricanes" 2 2020 FALSE FALSE
+"401" "Chicago Blackhawks" 8 2020 FALSE FALSE
+"402" "Colorado Avalanche" 4 2020 FALSE FALSE
+"403" "Columbus Blue Jackets" 11 2020 FALSE FALSE
+"404" "Dallas Stars" 4 2020 FALSE FALSE
+"405" "Detroit Red Wings" 8 2020 FALSE FALSE
+"406" "Edmonton Oilers" 5 2020 FALSE FALSE
+"407" "Florida Panthers" 4 2020 FALSE FALSE
+"408" "Los Angeles Kings" 4 2020 FALSE FALSE
+"409" "Minnesota Wild" 2 2020 FALSE FALSE
+"410" "Montreal Canadiens" 5 2020 FALSE FALSE
+"411" "Nashville Predators" 10 2020 FALSE FALSE
+"412" "New Jersey Devils" 14 2020 FALSE FALSE
+"413" "New York Islanders" 6 2020 FALSE FALSE
+"414" "New York Rangers" 6 2020 FALSE FALSE
+"415" "Philadelphia Flyers" 7 2020 FALSE FALSE
+"416" "Pittsburgh Penguins" 4 2020 FALSE FALSE
+"417" "San Jose Sharks" 7 2020 FALSE FALSE
+"418" "St. Louis Blues" 8 2020 FALSE FALSE
+"419" "Tampa Bay Lightning" 5 2020 FALSE FALSE
+"420" "Toronto Maple Leafs" 10 2020 FALSE FALSE
+"421" "Vancouver Canucks" 8 2020 FALSE FALSE
+"422" "Vegas Golden Knights" 5 2020 FALSE FALSE
+"423" "Washington Capitals" 7 2020 FALSE FALSE
+"424" "Winnipeg Jets" 6 2020 FALSE FALSE
+"425" "Boston Bruins" 1 2020 TRUE TRUE
+"426" "Carolina Hurricanes" 2 2020 TRUE TRUE
+"427" "Colorado Avalanche" 1 2020 TRUE TRUE
+"428" "Florida Panthers" 2 2020 TRUE TRUE
+"429" "Minnesota Wild" 1 2020 TRUE TRUE
+"430" "Montreal Canadiens" 2 2020 TRUE TRUE
+"431" "Nashville Predators" 1 2020 TRUE TRUE
+"432" "New York Islanders" 3 2020 TRUE TRUE
+"433" "Tampa Bay Lightning" 2 2020 TRUE TRUE
+"434" "Toronto Maple Leafs" 1 2020 TRUE TRUE
+"435" "Vegas Golden Knights" 2 2020 TRUE TRUE
+"436" "Winnipeg Jets" 2 2020 TRUE TRUE
+"437" "Boston Bruins" 2 2020 TRUE FALSE
+"438" "Carolina Hurricanes" 2 2020 TRUE FALSE
+"439" "Minnesota Wild" 1 2020 TRUE FALSE
+"440" "Montreal Canadiens" 2 2020 TRUE FALSE
+"441" "Nashville Predators" 1 2020 TRUE FALSE
+"442" "New York Islanders" 1 2020 TRUE FALSE
+"443" "Pittsburgh Penguins" 1 2020 TRUE FALSE
+"444" "St. Louis Blues" 2 2020 TRUE FALSE
+"445" "Tampa Bay Lightning" 2 2020 TRUE FALSE
+"446" "Toronto Maple Leafs" 1 2020 TRUE FALSE
+"447" "Vegas Golden Knights" 1 2020 TRUE FALSE
+"448" "Washington Capitals" 1 2020 TRUE FALSE
+"449" "Anaheim Ducks" 14 2021 FALSE TRUE
+"450" "Arizona Coyotes" 12 2021 FALSE TRUE
+"451" "Boston Bruins" 5 2021 FALSE TRUE
+"452" "Buffalo Sabres" 8 2021 FALSE TRUE
+"453" "Calgary Flames" 13 2021 FALSE TRUE
+"454" "Carolina Hurricanes" 11 2021 FALSE TRUE
+"455" "Chicago Blackhawks" 15 2021 FALSE TRUE
+"456" "Colorado Avalanche" 8 2021 FALSE TRUE
+"457" "Columbus Blue Jackets" 17 2021 FALSE TRUE
+"458" "Dallas Stars" 9 2021 FALSE TRUE
+"459" "Detroit Red Wings" 11 2021 FALSE TRUE
+"460" "Edmonton Oilers" 9 2021 FALSE TRUE
+"461" "Florida Panthers" 11 2021 FALSE TRUE
+"462" "Los Angeles Kings" 12 2021 FALSE TRUE
+"463" "Minnesota Wild" 16 2021 FALSE TRUE
+"464" "Montreal Canadiens" 7 2021 FALSE TRUE
+"465" "Nashville Predators" 12 2021 FALSE TRUE
+"466" "New Jersey Devils" 18 2021 FALSE TRUE
+"467" "New York Islanders" 16 2021 FALSE TRUE
+"468" "New York Rangers" 12 2021 FALSE TRUE
+"469" "Ottawa Senators" 13 2021 FALSE TRUE
+"470" "Philadelphia Flyers" 16 2021 FALSE TRUE
+"471" "Pittsburgh Penguins" 9 2021 FALSE TRUE
+"472" "San Jose Sharks" 14 2021 FALSE TRUE
+"473" "Seattle Kraken" 14 2021 FALSE TRUE
+"474" "St. Louis Blues" 10 2021 FALSE TRUE
+"475" "Tampa Bay Lightning" 11 2021 FALSE TRUE
+"476" "Toronto Maple Leafs" 10 2021 FALSE TRUE
+"477" "Vancouver Canucks" 12 2021 FALSE TRUE
+"478" "Vegas Golden Knights" 16 2021 FALSE TRUE
+"479" "Washington Capitals" 14 2021 FALSE TRUE
+"480" "Winnipeg Jets" 11 2021 FALSE TRUE
+"481" "Anaheim Ducks" 6 2021 FALSE FALSE
+"482" "Arizona Coyotes" 9 2021 FALSE FALSE
+"483" "Boston Bruins" 12 2021 FALSE FALSE
+"484" "Buffalo Sabres" 10 2021 FALSE FALSE
+"485" "Calgary Flames" 4 2021 FALSE FALSE
+"486" "Carolina Hurricanes" 7 2021 FALSE FALSE
+"487" "Chicago Blackhawks" 12 2021 FALSE FALSE
+"488" "Colorado Avalanche" 10 2021 FALSE FALSE
+"489" "Columbus Blue Jackets" 8 2021 FALSE FALSE
+"490" "Dallas Stars" 9 2021 FALSE FALSE
+"491" "Detroit Red Wings" 11 2021 FALSE FALSE
+"492" "Edmonton Oilers" 5 2021 FALSE FALSE
+"493" "Florida Panthers" 8 2021 FALSE FALSE
+"494" "Los Angeles Kings" 5 2021 FALSE FALSE
+"495" "Minnesota Wild" 14 2021 FALSE FALSE
+"496" "Montreal Canadiens" 11 2021 FALSE FALSE
+"497" "Nashville Predators" 12 2021 FALSE FALSE
+"498" "New Jersey Devils" 16 2021 FALSE FALSE
+"499" "New York Islanders" 11 2021 FALSE FALSE
+"500" "New York Rangers" 7 2021 FALSE FALSE
+"501" "Ottawa Senators" 8 2021 FALSE FALSE
+"502" "Philadelphia Flyers" 17 2021 FALSE FALSE
+"503" "Pittsburgh Penguins" 7 2021 FALSE FALSE
+"504" "San Jose Sharks" 13 2021 FALSE FALSE
+"505" "Seattle Kraken" 14 2021 FALSE FALSE
+"506" "St. Louis Blues" 15 2021 FALSE FALSE
+"507" "Tampa Bay Lightning" 6 2021 FALSE FALSE
+"508" "Toronto Maple Leafs" 6 2021 FALSE FALSE
+"509" "Vancouver Canucks" 9 2021 FALSE FALSE
+"510" "Vegas Golden Knights" 10 2021 FALSE FALSE
+"511" "Washington Capitals" 7 2021 FALSE FALSE
+"512" "Winnipeg Jets" 9 2021 FALSE FALSE
+"513" "Boston Bruins" 1 2021 TRUE TRUE
+"514" "Calgary Flames" 1 2021 TRUE TRUE
+"515" "Dallas Stars" 2 2021 TRUE TRUE
+"516" "Edmonton Oilers" 3 2021 TRUE TRUE
+"517" "Florida Panthers" 2 2021 TRUE TRUE
+"518" "New York Rangers" 4 2021 TRUE TRUE
+"519" "Pittsburgh Penguins" 2 2021 TRUE TRUE
+"520" "St. Louis Blues" 1 2021 TRUE TRUE
+"521" "Tampa Bay Lightning" 2 2021 TRUE TRUE
+"522" "Toronto Maple Leafs" 1 2021 TRUE TRUE
+"523" "Washington Capitals" 1 2021 TRUE TRUE
+"524" "Boston Bruins" 2 2021 TRUE FALSE
+"525" "Calgary Flames" 1 2021 TRUE FALSE
+"526" "Carolina Hurricanes" 2 2021 TRUE FALSE
+"527" "Colorado Avalanche" 1 2021 TRUE FALSE
+"528" "Edmonton Oilers" 1 2021 TRUE FALSE
+"529" "Florida Panthers" 2 2021 TRUE FALSE
+"530" "Los Angeles Kings" 1 2021 TRUE FALSE
+"531" "Minnesota Wild" 1 2021 TRUE FALSE
+"532" "New York Rangers" 4 2021 TRUE FALSE
+"533" "St. Louis Blues" 2 2021 TRUE FALSE
+"534" "Tampa Bay Lightning" 2 2021 TRUE FALSE
+"535" "Toronto Maple Leafs" 1 2021 TRUE FALSE
+"536" "Washington Capitals" 1 2021 TRUE FALSE
